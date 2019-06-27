@@ -4,4 +4,4 @@
 *.xlsx
 
 # ignore jupyter checkpoints
-.ipynb_checkpoins
+.ipynb_checkpoints
