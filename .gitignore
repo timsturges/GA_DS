@@ -2,3 +2,6 @@
 *.csv
 *.xls
 *.xlsx
+
+# ignore jupyter checkpoints
+.ipynb_checkpoins
